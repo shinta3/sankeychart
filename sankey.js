@@ -287,6 +287,9 @@ d3.sankey = function() {
   function value(link) {
     return link.value;
   }
+  
+  function myfunc(){
+  }
 
   return sankey;
 };
